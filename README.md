@@ -2,7 +2,7 @@
 
 The bullshit generator can generate articles with a given topic and a word count requirement.   
 
-There is also a live site at [https://howtobullshit.me](https://howtobullshit.me).
+There is also a live site at [[https://howtobullshit.me](https://howtobullshit.me](https://aa340993.github.io/hazzzzs/)).
 
 ## Getting started
 1. Install [docker](https://www.docker.com).
